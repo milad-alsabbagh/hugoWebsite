@@ -1,4 +1,4 @@
 ---
-title: posts
+title: My Blogs
 view: 1
 ---
